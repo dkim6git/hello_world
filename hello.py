@@ -1,2 +1,3 @@
 print("Hello")
-ASDFG
+print("Hello Earth")
+print("aaaa")
